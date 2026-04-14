@@ -3,6 +3,7 @@ package com.autowireAnnotation;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+//Using Annotations
 @Component
 public class Manager {
     private Employee employee;
